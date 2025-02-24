@@ -10,6 +10,8 @@
 
 *MENTOR*: NEELA SANTOSH
 
+*DESCRIPTION*:
+
 Automating the ETL Process for the Iris Dataset Using Pandas, Scikit-learn, and SQLAlchemy
 
 Introduction
@@ -66,6 +68,9 @@ Conclusion
 This project demonstrates a complete ETL pipeline for handling the Iris dataset, from data extraction to transformation and storage. By applying feature scaling, label encoding, and database storage, the pipeline ensures that raw data is clean, structured, and ready for analysis.
 
 This approach is fundamental in real-world data engineering and data science applications, where raw data must be systematically processed before use. By automating the ETL process, we can streamline workflows and enhance the efficiency of data-driven projects.
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/66d1b70b-4cf9-46c4-9095-6b7928f6b03b)
 
 
 
